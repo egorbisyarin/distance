@@ -539,6 +539,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    border: 3px solid #1890FF;
 }
 
 .figma {
@@ -546,6 +547,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    border: 3px solid #1890FF;
 }
 
 .ant-design {
@@ -553,6 +555,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    border: 3px solid #1890FF;
 }
 
 @media (max-width: 1250px) {
